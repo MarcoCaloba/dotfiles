@@ -1,3 +1,3 @@
 #!/bin/sh
-cd `dirname $0`
-sh -c "$(curl -fsLS chezmoi.io/get)" -- init --apply -S .
+cd ~
+sh -c "$(curl -fsLS chezmoi.io/get)" -- init --apply -S dotfiles
