@@ -116,4 +116,3 @@ export VISUAL=vim
 export EDITOR="$VISUAL"
 
 export SCREENDIR=$HOME/.screen
-
