@@ -6,7 +6,7 @@
     "-dotfiles.repository",
     "-dotfiles.targetPath"
   ],
-  "dotfiles.repository": "takeontom/dotfiles",
+  "dotfiles.repository": "MarcoCaloba/dotfiles",
   "dotfiles.targetPath": "~/.local/share/chezmoi",
   "dotfiles.installCommand": "~/.local/share/chezmoi/install.sh"
 ```
